@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    pad: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    height: 500px;
+    width: 100%;
+    background-color: #706262;
+    padding: 30px;
+    margin: 5px;
+}
+.rightbox{
+    height: 300px;
+    width:50% ;
+    background-color:blue;
+    float: right;
+    
+}
+.leftbox{
+    height: 400px;
+    width:50% ;
+    background-color: black;
+}
+h5{
+   position: relative;
+   top: 6px;
+
+}
+.footer{
+   
+   color: blue;
+   background-color: white;
+
+   
+}
+
+    
