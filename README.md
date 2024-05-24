@@ -1,4 +1,4 @@
-"# css-tut" 
+"# css-tut" flexbox
 
 for parent
 
