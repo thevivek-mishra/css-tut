@@ -1,4 +1,4 @@
-"# css-tut" flexbox
+# css flexbox for 1D layout design
 
 for parent
 
